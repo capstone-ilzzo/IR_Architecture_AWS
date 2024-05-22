@@ -1,5 +1,6 @@
 # Artifact-Acquisition
 침해 사고가 발생한 환경의 아티팩트를 수집하는 과정은 다음과 같은 Python 기반의 lamda 함수를 통해 자동화하고 있다.
+
 0. 0-GuardDuty-Forensic-Discord-Alarm.py
 1. 1-Lime-auto.py
 2. 2-EC2-Exec-With-SSM.py
